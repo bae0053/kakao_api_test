@@ -4,7 +4,7 @@ import requests
 from PIL import Image, ImageFilter
 
 API_URL = 'https://dapi.kakao.com/v2/vision/thumbnail/detect'
-MYAPP_KEY = '319e0bb3ea0234a4d3d914dbacbf5c84'
+MYAPP_KEY = 'MY_KEY'
 # 해당 이미지에서 주요 부분을 선택해 썸네일로 보여주는 예제
 
 
