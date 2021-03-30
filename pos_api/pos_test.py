@@ -1,7 +1,6 @@
 import requests
 
 APP_KEY = 'YOUR KEY'
-APP_KEY = '319e0bb3ea0234a4d3d914dbacbf5c84'
 IMAGE_URL = 'http://topclass.chosun.com/news_img/1802/1802_008.jpg'
 IMAGE_FILE_PATH = 'example.jpg'
 session = requests.Session()
