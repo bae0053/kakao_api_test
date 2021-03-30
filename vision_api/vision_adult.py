@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
 
 API_URL = 'https://dapi.kakao.com/v2/vision/adult/detect'
-MYAPP_KEY = '319e0bb3ea0234a4d3d914dbacbf5c84'
+MYAPP_KEY = 'MY_KEY'
 # 해당 이미지가 성인 이미지인지 판별하는 예제
 
 
