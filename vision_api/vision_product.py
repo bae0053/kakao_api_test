@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
 
 API_URL = 'https://dapi.kakao.com/v2/vision/product/detect'
-MYAPP_KEY = '319e0bb3ea0234a4d3d914dbacbf5c84'
+MYAPP_KEY = 'MY_KEY'
 # URL에서 상품을 찾아내는 예제
 
 
