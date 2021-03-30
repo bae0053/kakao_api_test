@@ -4,7 +4,7 @@ import requests
 from PIL import Image, ImageFilter
 
 API_URL = 'https://dapi.kakao.com/v2/vision/face/detect'
-MYAPP_KEY = '319e0bb3ea0234a4d3d914dbacbf5c84'
+MYAPP_KEY = 'MY_KEY'
 # 얼굴을 검출해서 해당 부분을 모자이크처리하는 예제
 
 def detect_face(filename):
