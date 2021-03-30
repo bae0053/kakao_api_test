@@ -6,7 +6,6 @@ from pycocotools.coco import COCO
 from requests import Session
 
 APP_KEY = 'YOUR KEY'
-APP_KEY = '319e0bb3ea0234a4d3d914dbacbf5c84'
 session = Session()
 session.headers.update({'Authorization': 'KakaoAK ' + APP_KEY})
 
